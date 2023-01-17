@@ -1,6 +1,6 @@
 <h1 align="center"> NLW Habits </h1>
 
-> Stage 08: Backend - Explorer
+> NLW HABITS
 <p align="center">
   <a href="#file_folder-tecnologias">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#pushpin-projeto">Estrutura</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -16,8 +16,6 @@
 
 
 ## :pushpin: Estrutura
-
-Estrutura do banco de dados:
 
 
 ## :computer: Tecnologias
