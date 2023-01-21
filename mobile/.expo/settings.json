@@ -1,3 +1,6 @@
 {
-  "urlRandomness": "Pl3DYt8"
+  "urlRandomness": "Pl3DYt8",
+  "dev": true,
+  "minify": false,
+  "https": false
 }
