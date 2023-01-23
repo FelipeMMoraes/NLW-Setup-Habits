@@ -1,16 +1,15 @@
 import { TouchableOpacity } from "react-native";
 import { Feather } from '@expo/vector-icons';
 import colors from "tailwindcss/colors";
-import { useNavigation } from '@react-navigation/native'
+import { useNavigation } from "@react-navigation/native";
 
-export function Backbutton() {
-
+export function BackButton() {
   const { goBack } = useNavigation()
 
   return (
-    <TouchableOpacity
-    activeOpacity={0.7}
-    onPress={goBack}
+    <TouchableOpacity 
+      activeOpacity={0.7}
+      onPress={goBack}
     >
       <Feather 
         name="arrow-left"
@@ -18,5 +17,5 @@ export function Backbutton() {
         color={colors.zinc[400]}
       />
     </TouchableOpacity>
-  );
+  )
 }
